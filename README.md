@@ -2,9 +2,9 @@
 
 [![logo](/Pictures/banner_1200x1200.svg)](#)
 
-The YouTube Trademarks Icon. They publishes an extensive resources and
+The YouTube Trademarks Icon. They published an extensive resources and
 guidelines on how to reference the brand as its platform user. However, the
-supplied resources requires expensive software with predatory subscription trap
+supplied resources require expensive software with predatory subscription trap
 to use (`.ai`, `.eps`). They did not supply any other vector version such as the
 preferred `.svg` which has non-destructive scale up & down properties and can be
 converted into any rasterized images (e.g. `jpeg`, `webp`, `avif`, etc). Hence,
@@ -174,7 +174,7 @@ as such.
 > **YOU ARE STILL OBLIGATED TO COMPLY WITH YOUTUBE TRADEMARK REQUIREMENTS
 > (Read: https://brand.youtube/)**.
 >
-> In any case, just use as it is and as per its brand guideline.
+> In any case, just use as it is and as per its brand guidelines.
 > **DO NOT MODIFY IN ANYWAY AND COMPLY TO THEIR BRANDING RULES**.
 
 
